@@ -18,5 +18,6 @@ Python
 
 ## License: 
 Code: [MIT](LICENSE) © Ziqing Lu
-Writing: The Creative Commons Attribution 3.0 License
+
+Writing: [The Creative Commons Attribution 3.0 License](LICENSE) © Ziqing Lu
 
