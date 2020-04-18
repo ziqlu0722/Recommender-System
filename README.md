@@ -17,7 +17,7 @@ Python
 4. Follow The Notebook
 
 ## License: 
-Code: [MIT](LICENSE) © Ziqing Lu
+Code: [MIT](LICENSE-MIT) © Ziqing Lu
 
 Writing: [The Creative Commons Attribution 3.0 License](LICENSE) © Ziqing Lu
 
