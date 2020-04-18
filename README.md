@@ -1,10 +1,10 @@
-# INFO7390-RESEARCH PORTFOLIO-RECOMMENDER SYSTEM
+# RESEARCH PORTFOLIO-RECOMMENDER SYSTEM
 
 ## Background: 
-	This notebook is a practical introduction to major Recommender System techniques. Basically, Content-based Filtering, Collaborative Filtering, Hybrid Methods are discussed. 
+This notebook is a practical introduction to major Recommender System techniques. Basically, Content-based Filtering, Collaborative Filtering, Hybrid Methods are discussed. 
 
 ## Language: 
-	Python
+Python
 
 ## How to Use this Notebook:
 1. Start A Google Colab Notebook
@@ -17,6 +17,6 @@
 4. Follow The Notebook
 
 ## License: 
-	- Code: [MIT](LICENSE) © Ziqing Lu
-	- Writing: The Creative Commons Attribution 3.0 License
+Code: [MIT](LICENSE) © Ziqing Lu
+Writing: The Creative Commons Attribution 3.0 License
 
