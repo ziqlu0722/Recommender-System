@@ -14,14 +14,14 @@ Python
 1. Start A Google Colab Notebook
 2. Set Up The Environtment
 	- Environment: Python 3 
-	- Dependencies: pandas, numpy, matplotlib, surprise, sklearn, math
+	- Dependencies: os, seaborn, pandas, numpy, matplotlib, surprise, sklearn, math
 3. Download Data And Upload Data File to Google Colab Notebook
-	- Link: https://www.kaggle.com/rounakbanik/the-movies-dataset
-	- Filename: movies_metadata.csv, links_small.csv, ratings_small.csv
+	- Link: https://www.kaggle.com/shubhammehta21/movie-lens-small-latest-dataset
+	- Filename: movies.csv, ratings.csv, tags.csv
 4. Follow The Notebook
 
 ## License: 
-Code: [MIT](LICENSE-MIT) © Ziqing Lu
+Code: [MIT](MIT-License) © Ziqing Lu
 
-Writing: [The Creative Commons Attribution 3.0 License](LICENSE) © Ziqing Lu
+Writing: [The Creative Commons Attribution 3.0 License](CreativeCommonsAttribution-License) © Ziqing Lu
 
