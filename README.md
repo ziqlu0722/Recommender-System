@@ -23,5 +23,5 @@ Python
 ## License: 
 Code: [MIT](MIT-License) © Ziqing Lu
 
-Writing: [The Creative Commons Attribution 3.0 License](CreativeCommonsAttribution-License) © Ziqing Lu
+Writing: [The Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/us/) © Ziqing Lu
 
