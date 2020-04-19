@@ -1,0 +1,4 @@
+The INFO7390-ResearchPortfolio-RecommenderSystem project (c) by Ziqing Lu uses the following two licenses:
+
+* Creative Commons Attribution 3.0 United States License for the writing. The full terms are in file CreativeCommonsAttribution-License.txt in the root folder. (Link: https://creativecommons.org/licenses/by/3.0/us/)
+* MIT License for the code. The full terms are in file MIT-License.txt in the root folder.
