@@ -4,6 +4,7 @@
 This notebook is a practical introduction to major Recommender System techniques. Basically, Content-based Filtering, Collaborative Filtering, Hybrid Methods are discussed. 
 
 Colab Link: https://colab.research.google.com/drive/1BrRl_1HXcMhYTX2mrhsJJlrFI8DpTVVD
+
 Github Link: https://github.com/ziqlu0722/Recommender-System
 
 ## Language: 
