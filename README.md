@@ -16,6 +16,7 @@ Python
 	- Environment: Python 3 
 	- Dependencies: os, seaborn, pandas, numpy, matplotlib, surprise, sklearn, math
 	- Load The Notebook:
+  		
   		Option 1:
 
 		  * Open shared view of the original Google Colab Notebook: https://colab.research.google.com/drive/1BrRl_1HXcMhYTX2mrhsJJlrFI8DpTVVD
